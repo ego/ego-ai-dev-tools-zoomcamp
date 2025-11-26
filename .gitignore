@@ -1,0 +1,8 @@
+vscode*
+VS*/*
+VSCode*
+VSCodium*
+.DS_Store
+*.env
+assets/
+*.sqlite3
